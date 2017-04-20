@@ -1,4 +1,4 @@
-name: robond-term1
+name: RoboND
 channels:
     - https://conda.anaconda.org/menpo
     - conda-forge
@@ -21,4 +21,4 @@ dependencies:
     - imageio=2.1.2
     - pyqt=4.11.4
     - pip:
-        - moviepy
+    - moviepy
