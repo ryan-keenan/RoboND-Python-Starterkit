@@ -43,7 +43,7 @@ Using Anaconda consists of the following:
 
 ```sh
 git clone https://github.com/udacity/RoboND-Python-StarterKit.git  
-cd RoboND-Python-Starterkit
+cd RoboND-Python-StarterKit
 ```
 
 If you are on Windows, **rename**   
